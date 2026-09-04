@@ -43,7 +43,8 @@ A **70% Meta / 30% TikTok** allocation is proposed as a starting scenario for re
 
 ## Dashboard
 
-![Nexus Retail Dashboard](screenshots/nexus-retail-dashboard.png)
+![Nexus Retail Dashboard](
+nexus-retail-dashboard.png)
 
 ## Project File
 
